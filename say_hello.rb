@@ -1,2 +1,4 @@
 # Build your say_hello method here
-Def 
+Def say_hello(name)
+  puts "Hello #{name}"
+end
